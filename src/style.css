@@ -54,12 +54,14 @@ or
 
 */
 
-.one{
+.underline{
     text-decoration:none;
+    color:rgb(41, 17, 193)3)3)3);
+    
 }
 
 a.one:hover{
-    color:rgb(97, 182, 209);
+    color:#51acdd;
 }
 
 .blue{
