@@ -56,8 +56,9 @@ or
 
 .underline{
     text-decoration:none;
-    color:rgb(41, 17, 193)3)3)3);
-    
+    /* color:rgb(41, 17, 193);
+     */
+     color:navy;
 }
 
 a.one:hover{
@@ -81,3 +82,7 @@ a.one:hover{
     /* /* display: block;  */
     display: inline;    
 }
+
+/* a{
+    color:navy;
+} */
