@@ -86,3 +86,16 @@ a.one:hover{
 /* a{
     color:navy;
 } */
+
+.liststyle{
+    list-style: none;
+    /* display: inline; */
+}
+
+.styling{
+    font-size:23px;
+}
+
+.h3style{
+    font-size:27px;
+}
